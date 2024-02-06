@@ -37,10 +37,8 @@ public class redembeat extends JFrame {
 	// 백그라운드
 	Random random = new Random();
 
-	private Image introBackground = new ImageIcon(
-			Main.class.getResource("../img/background/emu/에무 " + random.nextInt(21) + ".jpg")).getImage();
+	private JLabel introBackground = new JLabel(new ImageIcon(Main.class.getResource("../img/background/emu/emu2.jpg")));
 	private JLabel menuBar = new JLabel(new ImageIcon(Main.class.getResource("../img/menuBar.png")));
-
 	// 버튼
 	// 호버
 	private ImageIcon PlayButtonEnteredImage = new ImageIcon(
