@@ -2,8 +2,6 @@
 //
 // redem Beat 소스코드
 // 
-// setComponentZOrder의 999999는 맨뒤를 의미
-// setComponentZOrder의 0은 맨앞을 의미
 //
 //
 ///////////////////////////////////

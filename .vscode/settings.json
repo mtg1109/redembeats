@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/Users/mtg1109/Desktop/게임/java/redem beat/jlayer.jar"
+        "/Users/mtg1109/Desktop/게임/java/redem beat/jlayer.jar",
+        "/Users/mtg1109/Downloads/JLayer1.0.1/jlayer.jar"
     ]
 }
